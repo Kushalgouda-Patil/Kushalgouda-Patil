@@ -28,7 +28,7 @@ An aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
  </div>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushalgouda-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Kushal" /> </p>
