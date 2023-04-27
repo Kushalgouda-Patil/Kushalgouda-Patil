@@ -42,7 +42,7 @@ An aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushalgouda-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Kushal" /> </p>
  
- ### 📊 GitHub Stats:
+ ### GitHub Stats:
 
 ![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushalgouda-Patil&count_private=true&show_icons=true&theme=vision-friendly-dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kushalgouda-Patil&theme=dark&hide_border=false)
