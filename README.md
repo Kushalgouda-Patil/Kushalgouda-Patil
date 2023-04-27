@@ -1,3 +1,5 @@
+<a href="https://twitter.com/imKushal_Patil" target="_blank" rel="nofollow"><img align="right" alt="Kushal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://linkedin.com/in/kushalgouda-patil-5bb9b4233" target="_blank" rel="nofollow"><img align="right" alt="Kushal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com" target="_blank" rel="nofollow"><img align="right" alt="Kushal's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
