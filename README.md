@@ -37,3 +37,5 @@ An aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <a href="https://linkedin.com/in/kushalgouda-patil-5bb9b4233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KushalPatil" height="30" width="40" /></a>
 <a href="https://instagram.com/kushal_p_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="KushalPatil" height="30" width="40" /></a>
 </p>
+
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushalgouda-Patil&count_private=true&show_icons=true&theme=radical)
