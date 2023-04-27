@@ -45,8 +45,8 @@ An aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
  ### 📊 GitHub Stats:
 
 <a href="https://github.com/Kushalgouda-Patil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kushalgouda-Patil&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kushalgouda-Patil&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/Kushalgouda-Patil">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalgouda-Patil&theme=dark&hide_border=false" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalgouda-Patil&theme=dark&hide_border=false" />
 </a>
