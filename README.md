@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+ </div>
 -->
 ### :man_technologist: About Me :
 An aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -27,13 +32,15 @@ An aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :zap: In my free time, I solve problems on CodeChef and read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
- </div>
+
+![C](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushalgouda-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Kushal" /> </p>
 
 
-![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushalgouda-Patil&count_private=true&show_icons=true)
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kushalgouda-Patil&count_private=true&show_icons=true&theme=tokyonight)
