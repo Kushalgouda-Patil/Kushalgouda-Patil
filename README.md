@@ -26,10 +26,10 @@ Here are some ideas to get you started:
  </div>
 -->
 ### :man_technologist: About Me :
-An aspiring AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Passionate computer science engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a love for problem-solving, exploring cutting-edge technologies, and turning ideas into reality through elegant code.
 - :seedling: Exploring ML and AI with Python.
 - :books: Bibliophile and Extrovert.
-- :zap: In my free time, I solve problems on CodeChef and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode, Kaggle and read books
 
 ### :hammer_and_wrench: Languages and Tools :
 
