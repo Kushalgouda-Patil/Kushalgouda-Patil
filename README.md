@@ -41,6 +41,7 @@ Passionate computer science engineering student <img src="https://media.giphy.co
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushalgouda-Patil&label=Profile%20views&color=0e75b6&style=flat" alt="Kushal" /> </p>
  
